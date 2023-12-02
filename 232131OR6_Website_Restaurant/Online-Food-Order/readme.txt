@@ -21,8 +21,3 @@ FIRST Download
 6. Import foodorder.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http://localhost/Online-Food-Order
-
-admin: Aditi Naik/ aditi   
-user: birju/ Birju123@
-
-Subcribe my channel thank You,,,,
